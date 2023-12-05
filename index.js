@@ -43,3 +43,5 @@ const serverAndSocketConnector = () => {
 }
 
 serverAndSocketConnector()
+
+// NB: I used postman as client to test the WebSocket server
